@@ -1,3 +1,5 @@
+## WeSplit
+
 IOS app called WeSplit, built using SwiftUI. 
 This application follows the Hacking With Swift guide, and is to demostrate how to build IOS apps.
 
